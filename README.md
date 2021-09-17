@@ -222,17 +222,3 @@ vendor/bin/phpunit --group tool_mergeusers
 
 There are also other PHPUnit groups created to help testing only the part
 of the plugin of your choice. Take a look at the tests code for other group names.
-
-License
-=======
-
-GNU GPL v3 or later. http://www.gnu.org/copyleft/gpl.html
-
-Contributors
-============
-
-Maintained by:
-* Nicolas Dunand.
-* Jordi Pujol-Ahulló (at SREd, Universitat Rovira i Virgili).
-
-[See all Github contributors](https://github.com/ndunand/moodle-tool_mergeusers/graphs/contributors)
